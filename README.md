@@ -109,7 +109,7 @@ folositi la evaluare cu ajutorul functiei conjugate_gradient()
 - variabila pred va stoca valoarea estimata a functiei, adunandu-se de fiecare
 data contributia elementelor din X la estimarea valorii 
 
-### _Task-ul 2 - Kernel Regression_
+### _Task-ul 3 - Kernel Regression_
 
    Scopul problemei este acela de realiza un mini-AI bazat pe lanturi Markov
 care poate genera un text pe baza unui fisier de input.
