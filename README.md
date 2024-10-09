@@ -6,7 +6,7 @@
 
 ### _Task-ul 1 - Detectia anomaliilor_
 
-    Scopul problemei este de a detecta anomalii in seturile de date furnizate,
+   Scopul problemei este de a detecta anomalii in seturile de date furnizate,
 mai exact un subset care nu se potriveste cu intreg setul de date.
 
 1) estimate_gaussian()
@@ -56,7 +56,7 @@ true_pozitives) si metrics() (pentru a calcula precision, recall si F1)
 
 ### _Task-ul 2 - Kernel Regression_
 
-    Scopul problemei este de a face predictii cat mai precise prin
+   Scopul problemei este de a face predictii cat mai precise prin
 implementarea metodelor numerice asociate algoritmului Kernel Regression.
 
 1) split_dataset()
@@ -111,7 +111,7 @@ data contributia elementelor din X la estimarea valorii
 
 ### _Task-ul 2 - Kernel Regression_
 
-    Scopul problemei este acela de realiza un mini-AI bazat pe lanturi Markov
+   Scopul problemei este acela de realiza un mini-AI bazat pe lanturi Markov
 care poate genera un text pe baza unui fisier de input.
 
 1) distinct_words()
